@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+.divBox{
+	color: black;
+    border: 1px solid black;
+}
+.divBox:hover{
+    background-color: #ededed;
+}
+
+.topDiv0 ,.topDiv1 ,.topDiv2,.topDiv3,.topDiv4,.topDiv5,.topDiv6,.topDiv7,.topDiv8,.topDiv9,.topDiv10,.topDiv11,.topDiv12{ background-color: #7c8294; }
+.middleDiv0, .middleDiv1,.middleDiv2,.middleDiv3,.middleDiv4,.middleDiv5,.middleDiv6,.middleDiv7,.middleDiv8,.middleDiv9,.middleDiv10,.middleDiv11,.middleDiv12{ background-color: #809275; }
+.bottomDiv0, .bottomDiv1,.bottomDiv2,.bottomDiv3,.bottomDiv4,.bottomDiv5,.bottomDiv6,.bottomDiv7,.bottomDiv8,.bottomDiv9,.bottomDiv10,.bottomDiv11,.bottomDiv12{ background-color: #92663e; }
+
